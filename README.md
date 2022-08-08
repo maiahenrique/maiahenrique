@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maiahenrique
-- 👀 I’m interested in  adiquirir conhecimento de novas tecnologias, fazer networking, ganhar experiencia como dev.
+- 👀 I’m interested in  adquirir conhecimento de novas tecnologias, fazer networking, ganhar experiencia como dev.
 - 🌱 I’m currently learning  HTML, CSS e Java Script
 - 💞️ I’m looking to collaborate on  projetos da comunidade open source
 - 📫 How to reach me  @henrique_maia8, maiahenrique
